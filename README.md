@@ -7,7 +7,7 @@ The main goal of this project is to build a blockchain-based ledger system, comp
 ## Example of the Streamlit Interface
 
 The following image shows example of the PyChain. After enetering values for sender, receiver and amount in designed input area, you click the **Add Block** and a new block is stored in **The PyChain Ledger** below.
-Underneath **The PyChain Ledger** you can see the result of validation of the chainthat is *True* that pops up after you click the **Validate Chain** button.
+Underneath **The PyChain Ledger** you can see the result of validation of the chain that is *True* and pops up after you click the **Validate Chain** button.
 
 ![Streamlit interface](images/Capture.PNG)
 
